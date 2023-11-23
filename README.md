@@ -35,8 +35,12 @@ ___
 ![Soft Skill](https://img.shields.io/badge/SoftSkill-informational?style=flat&logo=Soft-Skill&logoColor=white&color=blue)
 ![Spring Boot](https://img.shields.io/badge/spring-boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=green)
 
+![Android Studio](https://img.shields.io/badge/Tools-Android_Studio-informational?style=flat&logo=Android&logoColor=white&color=Green)
+![Intelli J](https://img.shields.io/badge/Tools-IntelliJ-informationalstyle=flat&logo=JetBrains&logoColor=white&color=purple)
 ![Visual Studio](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=5C2D91)
 ![Django](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=Django&logoColor=white&color=Green)
+
+
 
 [![Git](https://img.shields.io/badge/Git-000?informational?style=flat&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?informational?style=flat&logo=github&logoColor=30A3DC)](https://github.com/AdminFilipeOliveira)
