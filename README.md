@@ -36,9 +36,12 @@ ___
 ![Spring Boot](https://img.shields.io/badge/spring-boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=green)
 
 ![Android Studio](https://img.shields.io/badge/Tools-Android_Studio-informational?style=flat&logo=Android&logoColor=white&color=Green)
-![Intelli J](https://img.shields.io/badge/Tools-IntelliJ-informationalstyle=flat&logo=JetBrains&logoColor=white&color=purple)
-![Visual Studio](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=5C2D91)
+![Intelli J](https://img.shields.io/badge/Tools-IntelliJ-informationalstyle=flat&logo=JetBrains&logoColor=white&color=Purple)
+![Visual Studio](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=Blue)
 ![Django](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=Django&logoColor=white&color=Green)
+![Eclipse](https://img.shields.io/badge/Tools-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=Purple)
+
+
 
 
 
