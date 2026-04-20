@@ -91,20 +91,4 @@ Trabalho com integrações de APIs externas (Twilio, Gmail OAuth, Notion, Google
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdminFilipeOliveira&theme=github_dark&bg_color=0d1117&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdminFilipeOliveira&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30A3DC&title_color=30A3DC&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdminFilipeOliveira&theme=github-dark-blue&background=0d1117&border=30A3DC&stroke=30A3DC&ring=30A3DC&fire=30A3DC&currStreakLabel=30A3DC" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdminFilipeOliveira&label=Visitas%20ao%20perfil&color=30A3DC&style=for-the-badge" alt="Contador de visitas" />
-</p>
