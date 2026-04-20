@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/AdminFilipeOliveira">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=30A3DC&center=true&vCenter=true&width=600&lines=Full-stack+Developer;TypeScript+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js;Baseado+em+Portugal+%F0%9F%87%B5%F0%9F%87%B9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=30A3DC&center=true&vCenter=true&width=600&lines=Full-stack+Developer;TypeScript+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js;" alt="Typing SVG" />
   </a>
 </p>
 
